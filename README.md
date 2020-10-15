@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![haxing](https://github.com/Ch3lLIST4/Ch3lLIST4/blob/main/images/haxing.gif)
-
-stop scraping for apikeys
-
 ![ch3llist4](https://github.com/Ch3lLIST4/Ch3lLIST4/blob/main/images/ch3llist4_.png)
 
 
